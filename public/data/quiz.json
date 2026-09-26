@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which is generally a need?",
+    "options": [
+      { "text": "Transport to college", "icon": "fa-solid fa-bus", "correct": true },
+      { "text": "New game", "icon": "fa-solid fa-gamepad", "correct": false },
+      { "text": "Extra fashion item", "icon": "fa-solid fa-shirt", "correct": false }
+    ],
+    "correctMessage": "Correct! Transport to college is generally an essential need.",
+    "wrongMessage": "Not quite. Ask yourself whether the purchase is essential or can be delayed."
+  },
+  {
+    "question": "In the 50/30/20 rule, what does the 20% represent?",
+    "options": [
+      { "text": "Wants", "icon": "fa-solid fa-bag-shopping", "correct": false },
+      { "text": "Savings", "icon": "fa-solid fa-piggy-bank", "correct": true },
+      { "text": "Needs", "icon": "fa-solid fa-house", "correct": false }
+    ],
+    "correctMessage": "Correct! 20% of income is set aside for savings in the guide.",
+    "wrongMessage": "Not quite. Savings is the portion set aside for the future."
+  },
+  {
+    "question": "What is the safest way to handle a small unplanned expense?",
+    "options": [
+      { "text": "Ignore it, it's too small to matter", "icon": "fa-solid fa-eye-slash", "correct": false },
+      { "text": "Track it against your budget", "icon": "fa-solid fa-list-check", "correct": true },
+      { "text": "Borrow money for it", "icon": "fa-solid fa-credit-card", "correct": false }
+    ],
+    "correctMessage": "Correct! Even small expenses should be tracked so they don't add up unnoticed.",
+    "wrongMessage": "Not quite. Small expenses add up, so it's best to track them."
+  }
+]

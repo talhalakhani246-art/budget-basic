@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="bbBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#211a3a"/>
+      <stop offset="100%" stop-color="#0e0e1c"/>
+    </linearGradient>
+    <linearGradient id="bbGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0cfff"/>
+      <stop offset="100%" stop-color="#c9a0ff"/>
+    </linearGradient>
+    <linearGradient id="bbCoin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff3d6"/>
+      <stop offset="100%" stop-color="#f0cfff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- badge background -->
+  <rect x="2" y="2" width="116" height="116" rx="30" fill="url(#bbBg)" stroke="url(#bbGold)" stroke-opacity="0.55" stroke-width="2"/>
+
+  <!-- wallet body -->
+  <path d="M28 44c0-6.6 5.4-12 12-12h38c6.6 0 12 5.4 12 12v34c0 6.6-5.4 12-12 12H40c-6.6 0-12-5.4-12-12V44z"
+        fill="none" stroke="url(#bbGold)" stroke-width="4.5" stroke-linejoin="round"/>
+
+  <!-- wallet flap -->
+  <path d="M28 46l30-14 30 14" fill="none" stroke="url(#bbGold)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+
+  <!-- coin / clasp -->
+  <circle cx="72" cy="62" r="9" fill="url(#bbCoin)"/>
+  <path d="M69 62h6M72 59v6" stroke="#241b3a" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- growth arrow -->
+  <path d="M34 68l10-10 8 7 14-15" fill="none" stroke="#7fe6b8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 46h8v8" fill="none" stroke="#7fe6b8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- sparkle accents -->
+  <circle cx="92" cy="30" r="2.6" fill="#f0cfff"/>
+  <circle cx="26" cy="86" r="2" fill="#c9a0ff"/>
+</svg>

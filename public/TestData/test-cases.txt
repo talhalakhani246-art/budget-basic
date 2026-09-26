@@ -1,0 +1,85 @@
+BudgetBasic functional test cases
+================================
+
+1. Home
+- Open index.html.
+- Verify logo/tagline, welcome message, visitor count and live date/time.
+- Expected: all are visible and time updates every second.
+
+2. Navigation
+- Click each top navigation item.
+- Expected: the page scrolls to the matching module and active navigation state changes.
+
+3. Budgeting Basics
+- Select each knowledge-check option.
+- Expected: correct/incorrect feedback appears.
+
+4. Needs vs Wants
+- Click Need/Want for each classifier example.
+- Expected: educational feedback appears.
+- Click Next example.
+- Expected: prompt changes.
+
+5. 50/30/20
+- Enter 60000.
+- Expected: 30000, 18000 and 12000.
+- Clear input and calculate.
+- Expected: validation message.
+- Enter negative/zero.
+- Expected: validation message.
+
+6. Savings Goal
+- Target 150000, current 30000, monthly 15000.
+- Expected: remaining 120000 and estimated 8 months.
+- Test negative/blank values.
+- Expected: validation message.
+
+7. Expense Planner
+- Add two valid entries.
+- Expected: table rows and total update.
+- Remove one entry.
+- Expected: row and totals update.
+- No income set.
+- Expected: balance says Set income first.
+
+8. Money Mistakes
+- Open and close accordion items.
+- Expected: content expands/collapses and aria-expanded changes.
+
+9. Infographics
+- Select every filter.
+- Expected: matching visual cards appear.
+
+10. Search
+- Search "saving".
+- Expected: relevant results and count.
+- Search "zzzz".
+- Expected: no-match message.
+
+11. Chatbot
+- Ask each suggested prompt.
+- Expected: predefined rule-based response.
+- Ask unrelated question.
+- Expected: safe fallback response.
+- Verify educational disclaimer.
+
+12. Feedback
+- Submit incomplete form.
+- Expected: validation message.
+- Enter valid name, email, rating and comments.
+- Expected: confirmation message and no server submission.
+
+13. Theme
+- Toggle light/dark.
+- Expected: theme changes and preference persists after refresh.
+
+14. Accessibility
+- Use keyboard Tab navigation.
+- Expected: visible focus indicators and operable controls.
+
+15. Responsive
+- Test desktop, tablet and mobile widths.
+- Expected: navigation collapses on small screens; grids stack without horizontal layout breakage.
+
+16. Privacy
+- Confirm no banking details, payment fields, transaction processing or backend database are present.

@@ -1,0 +1,16 @@
+{
+  "need": {
+    "type": "need",
+    "title": "NEED",
+    "icon": "fa-solid fa-receipt",
+    "text": "Something important for basic living, health, education or necessary travel.",
+    "items": ["College transport", "Study materials", "Basic food"]
+  },
+  "want": {
+    "type": "want",
+    "title": "WANT",
+    "icon": "fa-solid fa-bag-shopping",
+    "text": "Something enjoyable or useful, but not essential right now.",
+    "items": ["Extra shopping", "Premium entertainment", "Impulse purchases"]
+  }
+}

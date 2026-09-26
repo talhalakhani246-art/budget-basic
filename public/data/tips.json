@@ -1,0 +1,20 @@
+[
+  {
+    "step": "01",
+    "icon": "fa-solid fa-bullseye",
+    "title": "Set a clear goal",
+    "text": "Name the thing you are saving for and give it a target amount."
+  },
+  {
+    "step": "02",
+    "icon": "fa-solid fa-calendar-check",
+    "title": "Save consistently",
+    "text": "Choose an amount you can repeat each month instead of chasing perfection."
+  },
+  {
+    "step": "03",
+    "icon": "fa-solid fa-shield",
+    "title": "Protect your buffer",
+    "text": "Keep some savings available for unexpected costs and emergencies."
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "greeting": "Hi! 👋 I can help with budgeting, saving, needs vs wants, and the 50/30/20 rule.",
+  "fallback": "I can help with budgeting basics, needs vs wants, saving, expenses, goals, and the 50/30/20 guide. Try asking one of those.",
+  "disclaimer": "This assistant gives basic educational information only, not professional financial advice.",
+  "suggestedPrompts": [
+    "What is a need?",
+    "How much should I save?",
+    "What is the 50/30/20 rule?"
+  ],
+  "answers": [
+    {
+      "keys": ["need", "needs"],
+      "answer": "A need is something essential for basic living or an important responsibility, such as food, housing, education or necessary transport."
+    },
+    {
+      "keys": ["want", "wants"],
+      "answer": "A want is something useful or enjoyable but not essential right now, such as extra shopping, premium entertainment or an impulse purchase."
+    },
+    {
+      "keys": ["save", "saving", "savings"],
+      "answer": "Start with an amount you can repeat consistently. The 50/30/20 guide uses 20% of income for savings, but your real amount should fit your income, expenses and goals."
+    },
+    {
+      "keys": ["50/30/20", "50 30 20", "rule"],
+      "answer": "The 50/30/20 guide divides income into 50% needs, 30% wants and 20% savings. Treat it as an educational starting point, not a strict rule."
+    },
+    {
+      "keys": ["budget", "budgeting"],
+      "answer": "A budget is a plan for where your money should go before you spend it. Start with income, essential expenses, flexible spending and savings."
+    },
+    {
+      "keys": ["expense", "expenses", "spending"],
+      "answer": "Track your expenses regularly. Group them by category, compare them with your income, and look for spending that can be reduced without affecting essential needs."
+    },
+    {
+      "keys": ["goal", "goals", "plan"],
+      "answer": "Set a target amount, record what you already have, choose a monthly saving amount, and check your progress every month."
+    },
+    {
+      "keys": ["mistake", "mistakes"],
+      "answer": "Common money mistakes include spending without a plan, impulse buying, ignoring small expenses, and not keeping an emergency fund."
+    },
+    {
+      "keys": ["hello", "hi", "hey"],
+      "answer": "Hi! 👋 Ask me about budgeting, saving, expenses, needs vs wants, or the 50/30/20 rule."
+    }
+  ]
+}

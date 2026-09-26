@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa-solid fa-money-bill-trend-up",
+    "title": "Income",
+    "text": "Know what comes in each month so you can plan with a clear number."
+  },
+  {
+    "icon": "fa-solid fa-house",
+    "title": "Needs",
+    "text": "Prioritize essentials such as food, education, housing and necessary travel."
+  },
+  {
+    "icon": "fa-solid fa-bag-shopping",
+    "title": "Wants",
+    "text": "Leave room for enjoyment, but make sure wants do not crowd out priorities."
+  },
+  {
+    "icon": "fa-solid fa-piggy-bank",
+    "title": "Savings",
+    "text": "Pay your future self by setting aside money for goals and emergencies."
+  }
+]

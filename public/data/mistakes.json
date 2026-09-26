@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "📊",
+    "title": "1. No Budget",
+    "text": "Spending money without planning can make it difficult to know where your money is going."
+  },
+  {
+    "icon": "🛒",
+    "title": "2. Impulse Buying",
+    "text": "Buying things you don't need can quickly reduce your savings."
+  },
+  {
+    "icon": "💸",
+    "title": "3. Ignoring Small Expenses",
+    "text": "Small daily expenses may seem harmless, but they can add up over time."
+  },
+  {
+    "icon": "🏦",
+    "title": "4. Not Saving",
+    "text": "Waiting until the end of the month to save can make building savings difficult."
+  },
+  {
+    "icon": "💳",
+    "title": "5. Unnecessary Debt",
+    "text": "Borrowing money for things you don't really need can create financial pressure."
+  },
+  {
+    "icon": "🚨",
+    "title": "6. No Emergency Fund",
+    "text": "Unexpected expenses can become stressful when you have no emergency savings."
+  },
+  {
+    "icon": "📈",
+    "title": "7. Living Beyond Income",
+    "text": "Spending more than you earn can make it harder to reach your financial goals."
+  },
+  {
+    "icon": "🎯",
+    "title": "8. No Financial Goals",
+    "text": "Without clear goals, it becomes harder to stay motivated and manage your money effectively."
+  }
+]

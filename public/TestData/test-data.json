@@ -1,0 +1,57 @@
+{
+  "budget_calculator": [
+    {
+      "income": 60000,
+      "needs": 30000,
+      "wants": 18000,
+      "savings": 12000
+    },
+    {
+      "income": 100000,
+      "needs": 50000,
+      "wants": 30000,
+      "savings": 20000
+    }
+  ],
+  "savings_goal": [
+    {
+      "target": 150000,
+      "current": 30000,
+      "monthly": 15000,
+      "expected_months": 8
+    },
+    {
+      "target": 100000,
+      "current": 25000,
+      "monthly": 10000,
+      "expected_months": 8
+    }
+  ],
+  "expense_planner": [
+    {
+      "date": "2026-09-25",
+      "category": "Food",
+      "description": "Lunch",
+      "amount": 500
+    },
+    {
+      "date": "2026-09-25",
+      "category": "Transport",
+      "description": "Bus fare",
+      "amount": 300
+    }
+  ],
+  "chatbot_prompts": [
+    "What is the 50/30/20 rule?",
+    "How much should I save?",
+    "What is a need?",
+    "How do I track expenses?",
+    "Tell me something unrelated"
+  ],
+  "feedback_valid_case": {
+    "name": "Test Student",
+    "email": "student@example.com",
+    "rating": 5,
+    "comments": "The calculators are easy to understand."
+  }
+}
